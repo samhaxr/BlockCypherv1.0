@@ -13,7 +13,7 @@ figlet BlockCypher
 echo -e "\033[0;32mby @SulemanMalik_3\033[0m                                    v1.0"
 echo "----------------------------------------------------------"
 bnk
-echo "Transcation_code:"
+echo "Transaction_code:"
 read transaction
 bnk
 echo "----------------------------------------------------------"
